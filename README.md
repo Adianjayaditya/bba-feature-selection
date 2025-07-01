@@ -25,7 +25,6 @@ This project aims to classify individuals with Parkinson's disease using a Suppo
 
 - **Best Accuracy**: 92.5%  
 - **Model**: SVM with Linear kernel
-- **Insights**: The model successfully distinguished most cases, with a balanced precision and recall.
 
 ## Installation and Setup
 ### Prerequisites
