@@ -38,8 +38,7 @@ Before setting up this project, ensure that you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/KTP-Data-Extractor.git
-cd KTP-Data-Extractor
+git clone https://github.com/Adianjayaditya/bba-feature-selection.git
 ```
 
 ### Install Dependencies
